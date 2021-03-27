@@ -19,6 +19,8 @@ We don't want to use libraries that take up a lot of space, or has a lot of depe
 https://github.com/alpinejs/alpine
 
 ## Lazy load elements
+Safari doesn't have support for native lazy loading, and Firefox only support lazy load for images.
+
 https://github.com/verlok/vanilla-lazyload
 
 ## Dynamic font size
@@ -60,6 +62,9 @@ https://github.com/cferdinandi/tabby
 
 ## Modal
 https://github.com/Ghosh/micromodal
+
+## Accordion
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 
 ## Dev dependencies
 

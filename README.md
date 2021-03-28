@@ -53,9 +53,6 @@ https://github.com/lodash/lodash
 ## Map
 https://github.com/mapbox/mapbox-gl-js
 
-## Scrollspy
-https://github.com/cferdinandi/gumshoe
-
 ## Table of contents
 https://github.com/tscanlin/tocbot
 

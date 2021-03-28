@@ -1,4 +1,6 @@
 # good-enough-javascript
+An opinionated curated list for a simple modern frontend
+
 Simplify modern javascript.
 
 Drop support for older browser. Ship less code, and run more things nativly. 

@@ -15,7 +15,7 @@ Don't use jQuery or libraries that depends on jQuery. Keep it vanilla.
 
 We don't want to use libraries that take up a lot of space, or has a lot of dependencies. That way all environemnts stays fast and secure. 
 
-## DOM/GUI
+## DOM + UI
 https://github.com/alpinejs/alpine
 
 ## Lazy load elements
@@ -66,6 +66,9 @@ https://github.com/Ghosh/micromodal
 ## Accordion
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 
+## Select
+https://github.com/alphagov/accessible-autocomplete
+
 ## Dev dependencies
 
 Use NPM over Yarn. Not everyone has Yarn installed. 
@@ -74,4 +77,4 @@ Use NPM over Yarn. Not everyone has Yarn installed.
 * Integration tests: [Cypress](https://github.com/cypress-io/cypress)
 * Code formatter: [Prettier](https://github.com/prettier/prettier)
 * Git hooks: [Husky](https://github.com/typicode/husky)
-* 
+* CSS class name reduction: [Purge](https://github.com/FullHuman/purgecss)

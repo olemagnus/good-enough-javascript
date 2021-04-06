@@ -18,7 +18,16 @@ Don't use jQuery or libraries that depends on jQuery. Keep it vanilla.
 We don't want to use libraries that take up a lot of space, or has a lot of dependencies. That way all environemnts stays fast and secure. 
 
 ## DOM + UI
-https://github.com/alpinejs/alpine
+| Name             | Alpinejs                                                            |
+|------------------|---------------------------------------------------------------------|
+| Repository       | https://github.com/alpinejs/alpine                                  |
+| NPM name         | alpinejs                                                            |
+| License          | ![Badge](https://badgen.net/github/license/alpinejs/alpine)         |
+| Minified+gzip    | ![Badge](https://badgen.net/bundlephobia/minzip/alpinejs)           |
+| Tree-shaking     | ![Badge](https://badgen.net/bundlephobia/tree-shaking/alpinejs)     |
+| Dependency count | ![Badge](https://badgen.net/bundlephobia/dependency-count/alpinejs) |
+| Vulnerabilities  | ![Badge](https://badgen.net/snyk/alpinejs/alpine)                   |
+
 
 ## Lazy load elements
 Safari doesn't have support for native lazy loading, and Firefox only support lazy load for images.

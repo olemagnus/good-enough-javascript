@@ -18,7 +18,7 @@ Don't use jQuery or libraries that depends on jQuery. Keep it vanilla.
 We don't want to use libraries that take up a lot of space, or has a lot of dependencies. That way all environemnts stays fast and secure. 
 
 ## DOM + UI
-| Name             | Alpinejs                                                            |
+|                  |                                                                     |
 |------------------|---------------------------------------------------------------------|
 | Repository       | https://github.com/alpinejs/alpine                                  |
 | NPM name         | alpinejs                                                            |

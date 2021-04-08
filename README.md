@@ -110,4 +110,7 @@ Use NPM over Yarn. Not everyone has Yarn installed.
 
 
 TODO:
-Date picker, maybe https://github.com/duetds/date-picker#theming
+* Date picker, maybe https://github.com/duetds/date-picker#theming
+* Animation: https://github.com/juliangarnier/anime/
+* Focus trap: https://github.com/focus-trap/focus-trap
+* Input mask: https://github.com/uNmAnNeR/imaskjs

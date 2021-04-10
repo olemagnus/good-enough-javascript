@@ -40,7 +40,7 @@ https://codesandbox.io/s/github/camilla-westin/alpine-js-labs
 ## Autocomplete (typeahead)
 An easy to use and accessible auto complete input component, for selecting items in long lists.
 
-Read about [why gov.uk created this library](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete/)
+Read about [why gov.uk created this library](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete/).
 
 For smaller lists the `select` HTML element should be used instead. 
 
@@ -211,6 +211,8 @@ Lorem ipsum
 
 ## Utility library
 Lorem ipsum
+
+Don't import or install all of lodash. Install one method at a time, like this `npm i lodash.debounce`.
 
 **Repository:** https://github.com/lodash/lodash
 

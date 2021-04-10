@@ -22,12 +22,16 @@ Alpine.js offers you the reactive and declarative nature of big frameworks like 
 
 You get to keep your DOM, and sprinkle in behavior as you see fit.
 
-**Repository:** https://github.com/alpinejs/alpine
+### Repository
+https://github.com/alpinejs/alpine
 
-**NPM name:** `alpinejs`
+### NPM name
+`alpinejs`
 
-**Example:** https://codesandbox.io/s/github/camilla-westin/alpine-js-labs
+### Example
+https://codesandbox.io/s/github/camilla-westin/alpine-js-labs
 
+### Info
 ![Badge](https://badgen.net/github/license/alpinejs/alpine)
 ![Badge](https://badgen.net/bundlephobia/minzip/alpinejs)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/alpinejs)

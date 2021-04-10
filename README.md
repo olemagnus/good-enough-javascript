@@ -59,64 +59,177 @@ https://alphagov.github.io/accessible-autocomplete/examples/
 ![Badge](https://badgen.net/bundlephobia/dependency-count/accessible-autocomplete)
 ![Badge](https://badgen.net/snyk/alphagov/accessible-autocomplete)
 
-## Autocomplete
-Lotem ipsum
+## Carousel
+Lorem ipsum
 
-**Repository:**
+**Repository:** https://github.com/rcbyr/keen-slider
 
+**NPM name:** `keen-slider`
 
-**NPM name:**
+**Example:** https://keen-slider.io/examples/#examples
 
+![Badge](https://badgen.net/github/license/rcbyr/keen-slider)
+![Badge](https://badgen.net/bundlephobia/minzip/keen-slider)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/keen-slider)
+![Badge](https://badgen.net/bundlephobia/dependency-count/keen-slider)
+![Badge](https://badgen.net/snyk/alphagov/rcbyr/keen-slider)
 
-**Example:**
+## Charts
+Lorem ipsum
+
+**Repository:** https://github.com/chartjs/Chart.js
+
+**NPM name:** `chart.js`
+
+**Example:** https://www.chartjs.org/docs/latest/samples/bar/vertical.html
+
+![Badge](https://badgen.net/github/license/chartjs/Chart.js)
+![Badge](https://badgen.net/bundlephobia/minzip/chart.js)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/chart.js)
+![Badge](https://badgen.net/bundlephobia/dependency-count/chart.js)
+![Badge](https://badgen.net/snyk/alphagov/chartjs/Chart.js)
+
+## Conditionally class names
+Lorem ipsum
+
+**Repository:** https://github.com/JedWatson/classnames
+
+**NPM name:** `classnames`
+
+![Badge](https://badgen.net/github/license/JedWatson/classnames)
+![Badge](https://badgen.net/bundlephobia/minzip/classnames)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/classnames)
+![Badge](https://badgen.net/bundlephobia/dependency-count/classnames)
+![Badge](https://badgen.net/snyk/alphagov/JedWatson/classnames)
+
+## Dates
+Lorem ipsum
+
+**Repository:** https://github.com/date-fns/date-fns
+
+**NPM name:** `date-fns`
+
+![Badge](https://badgen.net/github/license/date-fns/date-fns)
+![Badge](https://badgen.net/bundlephobia/minzip/date-fns)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/date-fns)
+![Badge](https://badgen.net/bundlephobia/dependency-count/date-fns)
+![Badge](https://badgen.net/snyk/alphagov/date-fns/date-fns)
+
+## Dynamic font size
+Lorem ipsum
+
+**Repository:** https://github.com/rikschennink/fitty
+
+**NPM name:** `fitty`
+
+![Badge](https://badgen.net/github/license/rikschennink/fitty)
+![Badge](https://badgen.net/bundlephobia/minzip/fitty)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/fitty)
+![Badge](https://badgen.net/bundlephobia/dependency-count/fitty)
+![Badge](https://badgen.net/snyk/alphagov/rikschennink/fitty)
 
 ## Lazy load elements
-Safari doesn't have support for native lazy loading, and Firefox only support lazy load for images.
+Lorem ipsum
 
 **Repository:** https://github.com/verlok/vanilla-lazyload
 
-## Dynamic font size
-https://github.com/rikschennink/fitty
+**NPM name:** `vanilla-lazyload`
 
-## Conditionally class name joiner
-https://github.com/JedWatson/classnames
+**Example:** https://www.andreaverlicchi.eu/vanilla-lazyload/#-demos
 
-## Carousel
-https://github.com/rcbyr/keen-slider
-
-## Charts
-https://github.com/chartjs/Chart.js
-
-## Dates
-https://github.com/date-fns/date-fns
-
-## Smooth scroll
-Has a bunch of other features that are not available with the native implementation.
-
-https://github.com/zengabor/zenscroll
-
-## Utility library
-Don't import or install all of lodash. Install one method at a time, like this `npm i lodash.debounce`.
-
-https://github.com/lodash/lodash
-
-## Map
-https://github.com/mapbox/mapbox-gl-js
-
-## Table of contents
-https://github.com/tscanlin/tocbot
-
-## Tabs
-https://github.com/cferdinandi/tabby
+![Badge](https://badgen.net/github/license/verlok/vanilla-lazyload)
+![Badge](https://badgen.net/bundlephobia/minzip/vanilla-lazyload)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/vanilla-lazyload)
+![Badge](https://badgen.net/bundlephobia/dependency-count/vanilla-lazyload)
+![Badge](https://badgen.net/snyk/alphagov/verlok/vanilla-lazyload)
 
 ## Modal
-https://github.com/Ghosh/micromodal
+Lorem ipsum
+
+**Repository:** https://github.com/Ghosh/micromodal
+
+**NPM name:** `micromodal`
+
+**Example:** https://micromodal.vercel.app/
+
+![Badge](https://badgen.net/github/license/Ghosh/micromodal)
+![Badge](https://badgen.net/bundlephobia/minzip/micromodal)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/micromodal)
+![Badge](https://badgen.net/bundlephobia/dependency-count/micromodal)
+![Badge](https://badgen.net/snyk/alphagov/Ghosh/micromodal)
+
+## Smooth scroll
+Lorem ipsum
+
+**Repository:** https://github.com/zengabor/zenscroll
+
+**NPM name:** `zenscroll`
+
+**Example:** https://zengabor.github.io/zenscroll/
+
+![Badge](https://badgen.net/github/license/zengabor/zenscroll)
+![Badge](https://badgen.net/bundlephobia/minzip/zenscroll)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/zenscroll)
+![Badge](https://badgen.net/bundlephobia/dependency-count/zenscroll)
+![Badge](https://badgen.net/snyk/alphagov/zengabor/zenscroll)
+
+## Table of contents
+Lorem ipsum
+
+**Repository:** https://github.com/tscanlin/tocbot
+
+**NPM name:** `tocbot`
+
+**Example:** http://tscanlin.github.io/tocbot/
+
+![Badge](https://badgen.net/github/license/tscanlin/tocbot)
+![Badge](https://badgen.net/bundlephobia/minzip/tocbot)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/tocbot)
+![Badge](https://badgen.net/bundlephobia/dependency-count/tocbot)
+![Badge](https://badgen.net/snyk/alphagov/tscanlin/tocbot)
+
+## Tabs
+Lorem ipsum
+
+**Repository:** https://github.com/cferdinandi/tabby
+
+**NPM name:** `tabbyjs`
+
+**Example:** https://codepen.io/cferdinandi/pen/rRMJwK
+
+![Badge](https://badgen.net/github/license/cferdinandi/tabby)
+![Badge](https://badgen.net/bundlephobia/minzip/tabbyjs)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/tabbyjs)
+![Badge](https://badgen.net/bundlephobia/dependency-count/tabbyjs)
+![Badge](https://badgen.net/snyk/alphagov/cferdinandi/tabby)
+
+## Utility library
+Lorem ipsum
+
+**Repository:** https://github.com/lodash/lodash
+
+**NPM name:** `lodash`
+
+![Badge](https://badgen.net/github/license/lodash/lodash)
+![Badge](https://badgen.net/bundlephobia/minzip/lodash)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/lodash)
+![Badge](https://badgen.net/bundlephobia/dependency-count/lodash)
+![Badge](https://badgen.net/snyk/alphagov/lodash/lodash)
 
 ## Accordion
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
+Use the details HTML element. Internet Explorer and the Edge browsers with the Trident Engine (pre Chromium) doesn't support this, so you'll need a polyfill.
 
-## Select
-https://github.com/alphagov/accessible-autocomplete
+**Repository:** https://github.com/rstacruz/details-polyfill
+
+**NPM name:** `details-polyfill`
+
+**Example:** https://interactive-examples.mdn.mozilla.net/pages/tabbed/details.html
+
+![Badge](https://badgen.net/github/license/rstacruz/details-polyfill)
+![Badge](https://badgen.net/bundlephobia/minzip/details-polyfill)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/details-polyfill)
+![Badge](https://badgen.net/bundlephobia/dependency-count/details-polyfill)
+![Badge](https://badgen.net/snyk/alphagov/rstacruz/details-polyfill)
 
 ## Dev dependencies
 

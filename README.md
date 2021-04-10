@@ -72,7 +72,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/keen-slider)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/keen-slider)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/keen-slider)
-![Badge](https://badgen.net/snyk/alphagov/rcbyr/keen-slider)
+![Badge](https://badgen.net/snyk/rcbyr/keen-slider)
 
 ## Charts
 Lorem ipsum
@@ -87,7 +87,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/chart.js)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/chart.js)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/chart.js)
-![Badge](https://badgen.net/snyk/alphagov/chartjs/Chart.js)
+![Badge](https://badgen.net/snyk/chartjs/Chart.js)
 
 ## Conditionally class names
 Lorem ipsum
@@ -100,7 +100,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/classnames)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/classnames)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/classnames)
-![Badge](https://badgen.net/snyk/alphagov/JedWatson/classnames)
+![Badge](https://badgen.net/snyk/JedWatson/classnames)
 
 ## Dates
 Lorem ipsum
@@ -113,7 +113,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/date-fns)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/date-fns)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/date-fns)
-![Badge](https://badgen.net/snyk/alphagov/date-fns/date-fns)
+![Badge](https://badgen.net/snyk/date-fns/date-fns)
 
 ## Dynamic font size
 Lorem ipsum
@@ -126,7 +126,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/fitty)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/fitty)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/fitty)
-![Badge](https://badgen.net/snyk/alphagov/rikschennink/fitty)
+![Badge](https://badgen.net/snyk/rikschennink/fitty)
 
 ## Lazy load elements
 Lorem ipsum
@@ -141,7 +141,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/vanilla-lazyload)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/vanilla-lazyload)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/vanilla-lazyload)
-![Badge](https://badgen.net/snyk/alphagov/verlok/vanilla-lazyload)
+![Badge](https://badgen.net/snyk/verlok/vanilla-lazyload)
 
 ## Modal
 Lorem ipsum
@@ -156,7 +156,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/micromodal)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/micromodal)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/micromodal)
-![Badge](https://badgen.net/snyk/alphagov/Ghosh/micromodal)
+![Badge](https://badgen.net/snyk/Ghosh/micromodal)
 
 ## Smooth scroll
 Lorem ipsum
@@ -171,7 +171,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/zenscroll)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/zenscroll)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/zenscroll)
-![Badge](https://badgen.net/snyk/alphagov/zengabor/zenscroll)
+![Badge](https://badgen.net/snyk/zengabor/zenscroll)
 
 ## Table of contents
 Lorem ipsum
@@ -186,7 +186,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/tocbot)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/tocbot)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/tocbot)
-![Badge](https://badgen.net/snyk/alphagov/tscanlin/tocbot)
+![Badge](https://badgen.net/snyk/tscanlin/tocbot)
 
 ## Tabs
 Lorem ipsum
@@ -201,7 +201,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/tabbyjs)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/tabbyjs)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/tabbyjs)
-![Badge](https://badgen.net/snyk/alphagov/cferdinandi/tabby)
+![Badge](https://badgen.net/snyk/cferdinandi/tabby)
 
 ## Utility library
 Lorem ipsum
@@ -214,7 +214,7 @@ Lorem ipsum
 ![Badge](https://badgen.net/bundlephobia/minzip/lodash)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/lodash)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/lodash)
-![Badge](https://badgen.net/snyk/alphagov/lodash/lodash)
+![Badge](https://badgen.net/snyk/lodash/lodash)
 
 ## Accordion
 Use the details HTML element. Internet Explorer and the Edge browsers with the Trident Engine (pre Chromium) doesn't support this, so you'll need a polyfill.
@@ -228,8 +228,8 @@ Use the details HTML element. Internet Explorer and the Edge browsers with the T
 ![Badge](https://badgen.net/github/license/rstacruz/details-polyfill)
 ![Badge](https://badgen.net/bundlephobia/minzip/details-polyfill)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/details-polyfill)
-![Badge](https://badgen.net/bundlephobia/dependency-count/details-polyfill)
-![Badge](https://badgen.net/snyk/alphagov/rstacruz/details-polyfill)
+![Badge](https://badgen.net/snyk-count/details-polyfill)
+![Badge](https://badgen.net/github/license/rstacruz/details-polyfill)
 
 ## Dev dependencies
 

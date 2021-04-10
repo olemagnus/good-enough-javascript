@@ -17,33 +17,63 @@ Don't use jQuery or libraries that depends on jQuery. Keep it vanilla.
 
 We don't want to use libraries that take up a lot of space, or has a lot of dependencies. That way all environemnts stays fast and secure. 
 
-## DOM + UI
+## DOM & UI
 Alpine.js offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 
 You get to keep your DOM, and sprinkle in behavior as you see fit.
 
-### Repository
+**Repository:**
 https://github.com/alpinejs/alpine
 
-### NPM name
+**NPM name:**
 `alpinejs`
 
-### Example
+**Example:**
 https://codesandbox.io/s/github/camilla-westin/alpine-js-labs
 
-### Info
 ![Badge](https://badgen.net/github/license/alpinejs/alpine)
 ![Badge](https://badgen.net/bundlephobia/minzip/alpinejs)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/alpinejs)
 ![Badge](https://badgen.net/bundlephobia/dependency-count/alpinejs)
 ![Badge](https://badgen.net/snyk/alpinejs/alpine)
 
+## Autocomplete (typeahead)
+An easy to use and accessible auto complete input component, for selecting items in long lists.
 
+Read about [why gov.uk created this library](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete/)
+
+For smaller lists the `select` HTML element should be used instead. 
+
+**Repository:**
+https://github.com/alphagov/accessible-autocomplete
+
+**NPM name:**
+`accessible-autocomplete`
+
+**Example:**
+https://alphagov.github.io/accessible-autocomplete/examples/
+
+![Badge](https://badgen.net/github/license/alphagov/accessible-autocomplete)
+![Badge](https://badgen.net/bundlephobia/minzip/accessible-autocomplete)
+![Badge](https://badgen.net/bundlephobia/tree-shaking/accessible-autocomplete)
+![Badge](https://badgen.net/bundlephobia/dependency-count/accessible-autocomplete)
+![Badge](https://badgen.net/snyk/alphagov/accessible-autocomplete)
+
+## Autocomplete
+Lotem ipsum
+
+**Repository:**
+
+
+**NPM name:**
+
+
+**Example:**
 
 ## Lazy load elements
 Safari doesn't have support for native lazy loading, and Firefox only support lazy load for images.
 
-https://github.com/verlok/vanilla-lazyload
+**Repository:** https://github.com/verlok/vanilla-lazyload
 
 ## Dynamic font size
 https://github.com/rikschennink/fitty

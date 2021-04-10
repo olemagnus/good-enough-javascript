@@ -228,7 +228,6 @@ Use the details HTML element. Internet Explorer and the Edge browsers with the T
 ![Badge](https://badgen.net/github/license/rstacruz/details-polyfill)
 ![Badge](https://badgen.net/bundlephobia/minzip/details-polyfill)
 ![Badge](https://badgen.net/bundlephobia/tree-shaking/details-polyfill)
-![Badge](https://badgen.net/snyk-count/details-polyfill)
 ![Badge](https://badgen.net/snyk/rstacruz/details-polyfill)
 
 ## Dev dependencies
